@@ -1,0 +1,15 @@
+.image{
+    height: 90px;
+    max-width:160px;
+    border-radius: 4px;
+}
+
+.vid-item{
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer;
+}
+
+.header{
+    color: #343434 !important;
+}

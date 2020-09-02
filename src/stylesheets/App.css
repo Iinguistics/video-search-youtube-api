@@ -1,0 +1,5 @@
+.main-flex{
+    display: flex;
+    flex-direction: row;
+    width: 400% !important;
+}
